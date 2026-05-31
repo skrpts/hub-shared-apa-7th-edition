@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "231ec12a-98b7-43cf-a422-78dee8dbd719"
+name: "apa-7th-edition"
+display_name: "APA 7th Edition"
+description: "Citation and formatting guidelines per the APA Publication Manual, 7th edition"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-apa-7th-edition"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
