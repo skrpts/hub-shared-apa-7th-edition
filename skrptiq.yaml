@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "231ec12a-98b7-43cf-a422-78dee8dbd719"
+id: "937d286c-fd97-4c26-9256-911de5eca149"
 name: "apa-7th-edition"
 display_name: "APA 7th Edition"
 description: "Citation and formatting guidelines per the APA Publication Manual, 7th edition"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
