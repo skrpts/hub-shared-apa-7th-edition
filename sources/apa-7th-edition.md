@@ -33,7 +33,7 @@ connections: []
 - Do not use quotation marks around block quotes.
 - Place the parenthetical citation after the closing full stop.
 
-> Memory consolidation is a multistage process that unfolds over hours and days following initial encoding. The role of sleep, particularly slow-wave sleep, has been demonstrated across numerous experimental paradigms using both behavioural and neuroimaging measures. (Smith et al., 2023, p. 48)
+> Memory consolidation is a multistage process that unfolds over hours and days following initial encoding. The role of sleep, particularly slow-wave sleep, has been demonstrated across numerous experimental paradigms using both behavioral and neuroimaging measures. (Smith et al., 2023, p. 48)
 
 ### Multiple Sources in One Citation
 - List alphabetically by first author's surname, separated by semicolons.
@@ -68,15 +68,15 @@ Author, A. A. (Year). Title of the chapter. In E. E. Editor (Ed.), *Title of the
 > Chen, W. (2022). Cognitive load in multimedia learning. In R. Mayer & L. Fiorella (Eds.), *The Cambridge handbook of multimedia learning* (3rd ed., pp. 89–106). Cambridge University Press.
 
 ### Website
-Author or Organisation. (Year, Month Day). *Title of the page or article*. Site Name. URL
+Author or Organization. (Year, Month Day). *Title of the page or article*. Site Name. URL
 
-> World Health Organisation. (2024, March 12). *Mental health in the workplace*. `https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work`
+> World Health Organization. (2024, March 12). *Mental health in the workplace*. `https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work`
 
 - If the author and site name are the same, omit the site name.
 - If no date is available, use (n.d.).
 
 ### Report
-Author or Organisation. (Year). *Title of the report* (Report No. if available). Publisher. URL
+Author or Organization. (Year). *Title of the report* (Report No. if available). Publisher. URL
 
 > Office for National Statistics. (2023). *Internet access: Households and individuals, Great Britain 2023* (Statistical Bulletin). `https://www.ons.gov.uk/releases/internetaccesshouseholdsandindividuals2023`
 
@@ -101,7 +101,7 @@ Author or Organisation. (Year). *Title of the report* (Report No. if available).
 
 | Level | Format |
 |-------|--------|
-| 1 | Centred, **Bold**, Title Case |
+| 1 | Centerd, **Bold**, Title Case |
 | 2 | Flush left, **Bold**, Title Case |
 | 3 | Flush left, ***Bold Italic***, Title Case |
 | 4 | Indented 1.27 cm, **Bold**, Title Case, ending with a full stop. Text begins on the same line. |
@@ -128,7 +128,7 @@ Author or Organisation. (Year). *Title of the report* (Report No. if available).
 - **Legend:** If needed, placed within the figure (not as a separate note)
 - **Notes:** Same format as table notes, placed below the figure
 
-### Labelling Conventions
+### Labeling Conventions
 - Refer to every table and figure by its number in the text (e.g. "As shown in Table 3…"). Never refer to them as "the table above" or "the figure below."
 - Number tables and figures in the order they are first mentioned in the text.
 - Tables and figures should appear after their first mention, as close to the relevant text as possible.

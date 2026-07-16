@@ -3,7 +3,7 @@ id: "937d286c-fd97-4c26-9256-911de5eca149"
 name: "apa-7th-edition"
 display_name: "APA 7th Edition"
 description: "Citation and formatting guidelines per the APA Publication Manual, 7th edition"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T13:31:33.144Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/apa-7th-edition/security"
